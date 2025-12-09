@@ -21,11 +21,11 @@ from config import ADMIN_IDS
 
 # === CONFIGURATION ===
 # IMPORTANT: Hardcoded bot token and owner ID for direct use (no environment variables required)
-TOKEN = "8272984649:AAHUsFlfRDxkuVXT9mvEdwmH4"
-OWNER_ID = 8278658138
+TOKEN = "8528695397:AAEX0oVUQzZxKlfE4tzYxmI95krguZ0JKgM"
+OWNER_ID = 5994305183
 # --- New Configuration ---
-AUTHORIZATION_CONTACT = "@Kalinuxxx"
-OFFICIAL_GROUP_LINK = "https://t.me/CARDER33"
+AUTHORIZATION_CONTACT = "@solo_rohaN"
+OFFICIAL_GROUP_LINK = "https://t.me/CodeFelix_X"
 DEFAULT_FREE_CREDITS = 200  # A non-expiring credit pool for free users
 
 # === PERSISTENCE WARNING ===
